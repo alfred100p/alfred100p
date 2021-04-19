@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on nothing(not for ever though), I'm a bit busy now getting a solid footing, once that is over you can get me onboard anything you can convince me as interesting.
 - 📫 How to reach me 🤫 I'll add an email later. 
 
+Check out my initial gravatar.<br>
+<img src="images/82844187.png" width=35> <br>
+<img src="images/82844187.png" width=35><img src="images/82844187.png" width=35><br>
+<img src="images/82844187.png" width=35><img src="images/82844187.png" width=35><img src="images/82844187.png" width=35><br>
+
 <!---
 alfred100p/alfred100p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
