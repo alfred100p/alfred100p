@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learninng, Machine Learning and AI (or just AI if we're being technical), also Frontend. I'm loyal to C++ also.
 - 🌱 I’m currently learning PyTorch. I am improving my front end and C++ but mainly PyTorch.
 - 💞️ I’m looking to collaborate on nothing(not for ever though), I'm a bit busy now getting a solid footing, once that is over you can get me onboard anything you can convince me as interesting.
-- 📫 How to reach me 🤫 I'll add an email later. 
+- 📫 How to reach me 🤫 (I'll add an email later.) 
 
 Check out my initial gravatar.<br>
 <img src="images/82844187.png" width=35> <br>
