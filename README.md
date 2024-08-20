@@ -3,11 +3,11 @@
 
 
 - 👋 Hi, I’m Alfred Jacob (@alfred100p)
+- Creator of Repositories. Maker of Commits Puller of Brnaches
+- Contirbuted to OpenSource code from OpenAI, Microsoft, SonyAI and more
 - 📫 How to reach me: Gmail- alfjelavumkal
  
-- Other websites: <ul>
-  <li><a href="https://cs.utexas.edu/~alfredwj">Website</a></li>
-  <li><a href="https://scholar.google.com/citations?user=fr9TNLcAAAAJ">Google Scholar</a></li>
+- Links: <ul>
   <li><a href="https://in.linkedin.com/in/alfred-william-jacob-84b20a16b">Linkedin</a></li>
   </ul>
 
